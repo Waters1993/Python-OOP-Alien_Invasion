@@ -3,7 +3,7 @@ import pygame
 class Ship:
     """ A class to manage the ship """
     """ rect. is short for rectangles. Pygame allows all elements to be
-        treated as rectangles""""
+        treated as rectangles"""
 
     def __init__(self,ai_game):
         """ Initialize the ship and set it's starting position """
