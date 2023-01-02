@@ -19,6 +19,8 @@ I choose to create this game as a way to improve my skills with object oriented 
 > the player’s ship or reaches the bottom of the screen, the player
 > loses a ship. If the player loses three ships, the game ends.
 
+![demo](./images/play.PNG)
+
 ## Requirements to run
 
 - [Python3](https://www.python.org/)
